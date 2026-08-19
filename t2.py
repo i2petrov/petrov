@@ -5,9 +5,7 @@ print("Hello, World!")
 print("Hello, World!")
 f
 print("Hello, World!")
-print("Hello, World!")
 
-print("Hello, World!")
 print("Hello, World!")
 print("Hello, World!")
 print("Hello, World!")
